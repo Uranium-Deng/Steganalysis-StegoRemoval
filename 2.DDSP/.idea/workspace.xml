@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a901b7c3-2d77-42b1-a453-96af88bab434" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rqNNh12GUUPNVeaXF9BNtiJPQL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportQtDebugging" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.get_histogram">
+    <configuration name="get_all_indexs (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2.DDSP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/get_all_indexs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_all_indexs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2.DDSP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_all_indexs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_histogram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2.DDSP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/get_histogram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_output_image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2.DDSP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/get_output_image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="show_autoencoder_output" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2.DDSP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/show_autoencoder_output.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.get_histogram" />
+        <item itemvalue="Python.get_output_image" />
+        <item itemvalue="Python.get_all_indexs (1)" />
+        <item itemvalue="Python.get_all_indexs" />
+        <item itemvalue="Python.show_autoencoder_output" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a901b7c3-2d77-42b1-a453-96af88bab434" name="Default Changelist" comment="" />
+      <created>1619699621954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619699621954</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1619700772365">
+      <screen x="67" y="27" width="3293" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.3293.1053@67.27.3293.1053" timestamp="1619700772365" />
+    <state width="1826" height="225" key="GridCell.Tab.0.bottom" timestamp="1624322884766">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1826" height="605" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1621172547964" />
+    <state width="1826" height="225" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1624322884766" />
+    <state width="1826" height="115" key="GridCell.Tab.0.bottom/67.27.3293.1053@67.27.3293.1053" timestamp="1621488104226" />
+    <state width="1826" height="225" key="GridCell.Tab.0.center" timestamp="1624322884764">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1826" height="605" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1621172547964" />
+    <state width="1826" height="225" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1624322884764" />
+    <state width="1826" height="115" key="GridCell.Tab.0.center/67.27.3293.1053@67.27.3293.1053" timestamp="1621488104225" />
+    <state width="1826" height="225" key="GridCell.Tab.0.left" timestamp="1624322884764">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1826" height="605" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1621172547964" />
+    <state width="1826" height="225" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1624322884764" />
+    <state width="1826" height="115" key="GridCell.Tab.0.left/67.27.3293.1053@67.27.3293.1053" timestamp="1621488104224" />
+    <state width="1826" height="225" key="GridCell.Tab.0.right" timestamp="1624322884765">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1826" height="605" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1621172547964" />
+    <state width="1826" height="225" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1624322884765" />
+    <state width="1826" height="115" key="GridCell.Tab.0.right/67.27.3293.1053@67.27.3293.1053" timestamp="1621488104225" />
+    <state width="1826" height="344" key="GridCell.Tab.1.bottom" timestamp="1622177597309">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1826" height="398" key="GridCell.Tab.1.bottom/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1620438578610" />
+    <state width="1826" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1622177597309" />
+    <state width="1826" height="344" key="GridCell.Tab.1.center" timestamp="1622177597308">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1826" height="398" key="GridCell.Tab.1.center/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1620438578610" />
+    <state width="1826" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1622177597308" />
+    <state width="1826" height="344" key="GridCell.Tab.1.left" timestamp="1622177597308">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1826" height="398" key="GridCell.Tab.1.left/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1620438578610" />
+    <state width="1826" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1622177597308" />
+    <state width="1826" height="344" key="GridCell.Tab.1.right" timestamp="1622177597309">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1826" height="398" key="GridCell.Tab.1.right/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1620438578610" />
+    <state width="1826" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1622177597309" />
+    <state x="475" y="187" key="SettingsEditor" timestamp="1620540464021">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="475" y="187" key="SettingsEditor/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1620436910887" />
+    <state x="475" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1620540464021" />
+    <state width="926" height="527" key="XDebugger.FullValuePopup" timestamp="1620435890984">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="926" height="527" key="XDebugger.FullValuePopup/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1620435890984" />
+    <state x="543" y="220" width="891" height="664" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1622175765784">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="543" y="220" width="891" height="664" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/67.27.1853.1053@67.27.1853.1053" timestamp="1622175765784" />
+    <state x="336" y="220" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/67.27.3293.1053@67.27.3293.1053" timestamp="1621481341004" />
+    <state x="874" y="208" width="855" height="712" key="find.popup" timestamp="1621406194761">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="874" y="208" width="855" height="712" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1621406194761" />
+  </component>
+</project>

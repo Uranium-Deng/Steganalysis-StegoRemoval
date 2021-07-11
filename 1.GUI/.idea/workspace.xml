@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a0534dd-6d41-4e09-8eed-8975864f6019" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="1.GUI" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qMuW7ph4li7Lew3ShV4A4wm7vK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RunManager" selected="Python.main1">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1.GUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1.GUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1.GUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="steganalysis_steganography" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1.GUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/steganalysis_steganography.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testSRNet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1.GUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testSRNet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main1" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.testSRNet" />
+        <item itemvalue="Python.steganalysis_steganography" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a0534dd-6d41-4e09-8eed-8975864f6019" name="Default Changelist" comment="" />
+      <created>1616901808945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616901808945</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="299" width="381" height="507" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1623637126644">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="299" width="524" height="507" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1618201055215" />
+    <state x="585" y="299" width="381" height="507" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1623637126644" />
+    <state x="988" y="299" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.3293.1053@67.27.3293.1053" timestamp="1618301841729" />
+    <state x="594" y="329" width="877" height="445" key="#com.intellij.tools.ToolEditorDialog" timestamp="1618195737440">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="594" y="329" width="877" height="445" key="#com.intellij.tools.ToolEditorDialog/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1618195737440" />
+    <state x="594" y="329" width="874" height="409" key="#com.intellij.tools.ToolEditorDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1616902296306" />
+    <state x="659" y="143" width="658" height="819" key="#login" timestamp="1618195785404">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="659" y="143" width="658" height="819" key="#login/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1618195785404" />
+    <state x="576" y="270" width="824" height="564" key="DBNavigator.DatasetFilterDialog" timestamp="1618108308515">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="576" y="270" width="824" height="564" key="DBNavigator.DatasetFilterDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1618108308515" />
+    <state x="526" y="210" width="924" height="684" key="DBNavigator.ProjectSettingsDialog" timestamp="1618108155731">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="526" y="210" width="924" height="684" key="DBNavigator.ProjectSettingsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1618108155731" />
+    <state x="1166" y="288" width="424" height="484" key="FileChooserDialogImpl" timestamp="1619699612874">
+      <screen x="67" y="27" width="3293" height="1053" />
+    </state>
+    <state x="701" y="288" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1618195733742" />
+    <state x="701" y="288" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1618485018604" />
+    <state x="1166" y="288" key="FileChooserDialogImpl/67.27.3293.1053@67.27.3293.1053" timestamp="1619699612874" />
+    <state width="1826" height="568" key="GridCell.Tab.0.bottom" timestamp="1624323688918">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1826" height="501" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1619165279347" />
+    <state width="1826" height="568" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1624323688918" />
+    <state width="1826" height="338" key="GridCell.Tab.0.bottom/67.27.3293.1053@67.27.3293.1053" timestamp="1619084788711" />
+    <state width="1826" height="568" key="GridCell.Tab.0.center" timestamp="1624323688917">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1826" height="501" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1619165279347" />
+    <state width="1826" height="568" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1624323688917" />
+    <state width="1826" height="338" key="GridCell.Tab.0.center/67.27.3293.1053@67.27.3293.1053" timestamp="1619084788710" />
+    <state width="1826" height="568" key="GridCell.Tab.0.left" timestamp="1624323688916">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1826" height="501" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1619165279347" />
+    <state width="1826" height="568" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1624323688916" />
+    <state width="1826" height="338" key="GridCell.Tab.0.left/67.27.3293.1053@67.27.3293.1053" timestamp="1619084788710" />
+    <state width="1826" height="568" key="GridCell.Tab.0.right" timestamp="1624323688918">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1826" height="501" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1619165279347" />
+    <state width="1826" height="568" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1624323688918" />
+    <state width="1826" height="338" key="GridCell.Tab.0.right/67.27.3293.1053@67.27.3293.1053" timestamp="1619084788711" />
+    <state x="475" y="187" key="SettingsEditor" timestamp="1618195741392">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="475" y="187" key="SettingsEditor/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1618195741392" />
+    <state x="475" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1618108003452" />
+    <state x="429" y="136" width="1118" height="832" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1618287066321">
+      <screen x="67" y="27" width="3293" height="1053" />
+    </state>
+    <state x="429" y="136" width="1118" height="832" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.3293.1053@67.27.3293.1053" timestamp="1618287066321" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1618300533736">
+      <screen x="67" y="27" width="3293" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.3293.1053@67.27.3293.1053" timestamp="1618300533736" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3/envs/tensorflow/lib/python3.6/site-packages/keras_applications/__init__.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
