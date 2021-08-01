@@ -8,7 +8,11 @@
 
 ### 隐写分析	
 
-​		本项目隐写分析中使用的隐写术为:  S-UNIWARD、HUGO、WOW三种图像空域隐写算法，采用的隐写嵌入率为：0.4bpp、0.7bpp和1.0bpp三种。采用的隐写分析模型是2018年Jessica教授团队提出的SRNet隐写分析网络模型，关于网络模型此处不赘述，这里直接粘贴知乎的一篇帖子: https://zhuanlan.zhihu.com/p/362127299，SRNet隐写分析网络模型论文地址: https://ieeexplore.ieee.org/document/8470101. 隐写分析使用的BOSSBase数据集和隐写术的下载地址为: http://dde.binghamton.edu/download/stego_algorithms/，该页面可以下载BOSSBase1.01版数据集以及空域和JPEG域两大类隐写算法。隐写分析官方代码下载页面: http://dde.binghamton.edu/download/feature_extractors/。
+​		本项目隐写分析中使用的隐写术为:  S-UNIWARD、HUGO、WOW三种图像空域隐写算法，采用的隐写嵌入率为：0.4bpp、0.7bpp和1.0bpp三种。采用的隐写分析模型是2018年Jessica教授团队提出的SRNet隐写分析网络模型，关于网络模型此处不赘述.
+         这里直接粘贴知乎的一篇帖子: https://zhuanlan.zhihu.com/p/362127299.
+         SRNet隐写分析网络模型论文地址: https://ieeexplore.ieee.org/document/8470101.
+         隐写分析使用的BOSSBase数据集和隐写术的下载地址为: http://dde.binghamton.edu/download/stego_algorithms/. 该页面可以下载BOSSBase1.01版数据集以及空域和JPEG域两大类隐写算法。
+         隐写分析官方代码下载页面: http://dde.binghamton.edu/download/feature_extractors/。
 ​		隐写分析中为了进一步提升图像隐写分析的性能，本项目还将CBAM注意力机制和原始SRNet网络模型相结合，实验结果表明将CBAM注意力机制添加到SRNet网络模型中后，网络在某些嵌入率和隐写术中有性能的提高，但是对有些嵌入率和隐写术其性能还不如原始SRNet网络的性能。CBAM注意力机制论文地址为: https://arxiv.org/abs/1807.06521.
 
 ### 隐写去除
